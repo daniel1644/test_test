@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <titel>Review</titel>
+        </head>
+        <body>
+            <h1>the text About me</h1>
+            <p>Here are a few things about me</p>
+
+            <ul>
+                <li>Daniel Beyene</li>
+                <li>i love to see...& red a book</li>
+                <li>lione</li>
+            </ul>
+        </body>
+</html>
